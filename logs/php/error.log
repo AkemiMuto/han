@@ -1,0 +1,667 @@
+[18-Jul-2020 09:27:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php:34
+Stack trace:
+#0 /Users/akemi1/Local Sites/2020/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php(19): require_once('/Users/akemi1/L...')
+#2 /Users/akemi1/Local Sites/2020/app/public/index.php(17): require('/Users/akemi1/L...')
+#3 {main}
+  thrown in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php on line 34
+[18-Jul-2020 09:27:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php:34
+Stack trace:
+#0 /Users/akemi1/Local Sites/2020/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php(19): require_once('/Users/akemi1/L...')
+#2 /Users/akemi1/Local Sites/2020/app/public/index.php(17): require('/Users/akemi1/L...')
+#3 {main}
+  thrown in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php on line 34
+[18-Jul-2020 09:28:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php:34
+Stack trace:
+#0 /Users/akemi1/Local Sites/2020/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php(19): require_once('/Users/akemi1/L...')
+#2 /Users/akemi1/Local Sites/2020/app/public/index.php(17): require('/Users/akemi1/L...')
+#3 {main}
+  thrown in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php on line 34
+[18-Jul-2020 09:28:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php:34
+Stack trace:
+#0 /Users/akemi1/Local Sites/2020/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php(19): require_once('/Users/akemi1/L...')
+#2 /Users/akemi1/Local Sites/2020/app/public/index.php(17): require('/Users/akemi1/L...')
+#3 {main}
+  thrown in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php on line 34
+[18-Jul-2020 09:29:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_uri() in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php:34
+Stack trace:
+#0 /Users/akemi1/Local Sites/2020/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php(19): require_once('/Users/akemi1/L...')
+#2 /Users/akemi1/Local Sites/2020/app/public/index.php(17): require('/Users/akemi1/L...')
+#3 {main}
+  thrown in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php on line 34
+[18-Jul-2020 09:29:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_uri() in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php:34
+Stack trace:
+#0 /Users/akemi1/Local Sites/2020/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php(19): require_once('/Users/akemi1/L...')
+#2 /Users/akemi1/Local Sites/2020/app/public/index.php(17): require('/Users/akemi1/L...')
+#3 {main}
+  thrown in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php on line 34
+[18-Jul-2020 09:29:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_uri() in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php:34
+Stack trace:
+#0 /Users/akemi1/Local Sites/2020/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php(19): require_once('/Users/akemi1/L...')
+#2 /Users/akemi1/Local Sites/2020/app/public/index.php(17): require('/Users/akemi1/L...')
+#3 {main}
+  thrown in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php on line 34
+[18-Jul-2020 09:29:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_uri() in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php:34
+Stack trace:
+#0 /Users/akemi1/Local Sites/2020/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php(19): require_once('/Users/akemi1/L...')
+#2 /Users/akemi1/Local Sites/2020/app/public/index.php(17): require('/Users/akemi1/L...')
+#3 {main}
+  thrown in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php on line 34
+[18-Jul-2020 09:29:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_uri() in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php:34
+Stack trace:
+#0 /Users/akemi1/Local Sites/2020/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php(19): require_once('/Users/akemi1/L...')
+#2 /Users/akemi1/Local Sites/2020/app/public/index.php(17): require('/Users/akemi1/L...')
+#3 {main}
+  thrown in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php on line 34
+[18-Jul-2020 09:29:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_uri() in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php:34
+Stack trace:
+#0 /Users/akemi1/Local Sites/2020/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php(19): require_once('/Users/akemi1/L...')
+#2 /Users/akemi1/Local Sites/2020/app/public/index.php(17): require('/Users/akemi1/L...')
+#3 {main}
+  thrown in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php on line 34
+[18-Jul-2020 09:29:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_uri() in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php:34
+Stack trace:
+#0 /Users/akemi1/Local Sites/2020/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php(19): require_once('/Users/akemi1/L...')
+#2 /Users/akemi1/Local Sites/2020/app/public/index.php(17): require('/Users/akemi1/L...')
+#3 {main}
+  thrown in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php on line 34
+[18-Jul-2020 09:29:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_uri() in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php:34
+Stack trace:
+#0 /Users/akemi1/Local Sites/2020/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php(19): require_once('/Users/akemi1/L...')
+#2 /Users/akemi1/Local Sites/2020/app/public/index.php(17): require('/Users/akemi1/L...')
+#3 {main}
+  thrown in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php on line 34
+[18-Jul-2020 09:33:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_uri() in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php:20
+Stack trace:
+#0 /Users/akemi1/Local Sites/2020/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php(19): require_once('/Users/akemi1/L...')
+#2 /Users/akemi1/Local Sites/2020/app/public/index.php(17): require('/Users/akemi1/L...')
+#3 {main}
+  thrown in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php on line 20
+[18-Jul-2020 09:34:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_uri() in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php:8
+Stack trace:
+#0 /Users/akemi1/Local Sites/2020/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php(19): require_once('/Users/akemi1/L...')
+#2 /Users/akemi1/Local Sites/2020/app/public/index.php(17): require('/Users/akemi1/L...')
+#3 {main}
+  thrown in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php on line 8
+[18-Jul-2020 09:34:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_uri() in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php:8
+Stack trace:
+#0 /Users/akemi1/Local Sites/2020/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php(19): require_once('/Users/akemi1/L...')
+#2 /Users/akemi1/Local Sites/2020/app/public/index.php(17): require('/Users/akemi1/L...')
+#3 {main}
+  thrown in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php on line 8
+[18-Jul-2020 09:35:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_uri() in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php:8
+Stack trace:
+#0 /Users/akemi1/Local Sites/2020/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php(19): require_once('/Users/akemi1/L...')
+#2 /Users/akemi1/Local Sites/2020/app/public/index.php(17): require('/Users/akemi1/L...')
+#3 {main}
+  thrown in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php on line 8
+[18-Jul-2020 09:53:06 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[18-Jul-2020 09:53:06 UTC] PHP Stack trace:
+[18-Jul-2020 09:53:06 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/index.php:0
+[18-Jul-2020 09:53:06 UTC] PHP   2. require() /Users/akemi1/Local Sites/2020/app/public/index.php:17
+[18-Jul-2020 09:53:06 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php:13
+[18-Jul-2020 09:53:06 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[18-Jul-2020 09:53:06 UTC] PHP   5. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[18-Jul-2020 09:53:06 UTC] PHP   6. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[18-Jul-2020 09:53:06 UTC] PHP   7. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[18-Jul-2020 09:53:06 UTC] PHP   8. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[18-Jul-2020 09:53:21 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[18-Jul-2020 09:53:21 UTC] PHP Stack trace:
+[18-Jul-2020 09:53:21 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/index.php:0
+[18-Jul-2020 09:53:21 UTC] PHP   2. require() /Users/akemi1/Local Sites/2020/app/public/index.php:17
+[18-Jul-2020 09:53:21 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php:13
+[18-Jul-2020 09:53:21 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[18-Jul-2020 09:53:21 UTC] PHP   5. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[18-Jul-2020 09:53:21 UTC] PHP   6. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[18-Jul-2020 09:53:21 UTC] PHP   7. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[18-Jul-2020 09:53:21 UTC] PHP   8. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:34:13 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:34:13 UTC] PHP Stack trace:
+[24-Jul-2020 01:34:13 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[24-Jul-2020 01:34:13 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[24-Jul-2020 01:34:13 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[24-Jul-2020 01:34:13 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[24-Jul-2020 01:34:13 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[24-Jul-2020 01:34:13 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[24-Jul-2020 01:34:13 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[24-Jul-2020 01:34:13 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[24-Jul-2020 01:34:13 UTC] PHP   9. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:34:13 UTC] PHP  10. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:34:13 UTC] PHP  11. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:34:13 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:34:13 UTC] PHP Stack trace:
+[24-Jul-2020 01:34:13 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[24-Jul-2020 01:34:13 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[24-Jul-2020 01:34:13 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[24-Jul-2020 01:34:13 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[24-Jul-2020 01:34:13 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[24-Jul-2020 01:34:13 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[24-Jul-2020 01:34:13 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[24-Jul-2020 01:34:13 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[24-Jul-2020 01:34:13 UTC] PHP   9. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:34:13 UTC] PHP  10. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:34:13 UTC] PHP  11. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:34:13 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:34:13 UTC] PHP Stack trace:
+[24-Jul-2020 01:34:13 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[24-Jul-2020 01:34:13 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[24-Jul-2020 01:34:13 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[24-Jul-2020 01:34:13 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[24-Jul-2020 01:34:13 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[24-Jul-2020 01:34:13 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[24-Jul-2020 01:34:13 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[24-Jul-2020 01:34:13 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[24-Jul-2020 01:34:13 UTC] PHP   9. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:34:13 UTC] PHP  10. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:34:13 UTC] PHP  11. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:34:13 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:34:13 UTC] PHP Stack trace:
+[24-Jul-2020 01:34:13 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/index.php:0
+[24-Jul-2020 01:34:13 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/index.php:10
+[24-Jul-2020 01:34:13 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin.php:34
+[24-Jul-2020 01:34:13 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:34:13 UTC] PHP   5. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:34:13 UTC] PHP   6. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:34:13 UTC] PHP   7. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:34:13 UTC] PHP   8. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:34:13 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:34:13 UTC] PHP Stack trace:
+[24-Jul-2020 01:34:13 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-cron.php:0
+[24-Jul-2020 01:34:13 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-cron.php:44
+[24-Jul-2020 01:34:13 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:34:13 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:34:13 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:34:13 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:34:13 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:34:14 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:34:14 UTC] PHP Stack trace:
+[24-Jul-2020 01:34:14 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-login.php:0
+[24-Jul-2020 01:34:14 UTC] PHP   2. require() /Users/akemi1/Local Sites/2020/app/public/wp-login.php:12
+[24-Jul-2020 01:34:14 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:34:14 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:34:14 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:34:14 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:34:14 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:34:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:34:16 UTC] PHP Stack trace:
+[24-Jul-2020 01:34:16 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[24-Jul-2020 01:34:16 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[24-Jul-2020 01:34:16 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[24-Jul-2020 01:34:16 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[24-Jul-2020 01:34:16 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[24-Jul-2020 01:34:16 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[24-Jul-2020 01:34:16 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[24-Jul-2020 01:34:16 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[24-Jul-2020 01:34:16 UTC] PHP   9. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:34:16 UTC] PHP  10. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:34:16 UTC] PHP  11. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:34:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:34:16 UTC] PHP Stack trace:
+[24-Jul-2020 01:34:16 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[24-Jul-2020 01:34:16 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[24-Jul-2020 01:34:16 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[24-Jul-2020 01:34:16 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[24-Jul-2020 01:34:16 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[24-Jul-2020 01:34:16 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[24-Jul-2020 01:34:16 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[24-Jul-2020 01:34:16 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[24-Jul-2020 01:34:16 UTC] PHP   9. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:34:16 UTC] PHP  10. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:34:16 UTC] PHP  11. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:34:19 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:34:19 UTC] PHP Stack trace:
+[24-Jul-2020 01:34:19 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/index.php:0
+[24-Jul-2020 01:34:19 UTC] PHP   2. require() /Users/akemi1/Local Sites/2020/app/public/index.php:17
+[24-Jul-2020 01:34:19 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php:13
+[24-Jul-2020 01:34:19 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:34:19 UTC] PHP   5. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:34:19 UTC] PHP   6. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:34:19 UTC] PHP   7. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:34:19 UTC] PHP   8. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:34:19 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:34:19 UTC] PHP Stack trace:
+[24-Jul-2020 01:34:19 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:0
+[24-Jul-2020 01:34:19 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:22
+[24-Jul-2020 01:34:19 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:34:19 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:34:19 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:34:19 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:34:19 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:34:19 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:34:19 UTC] PHP Stack trace:
+[24-Jul-2020 01:34:19 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:0
+[24-Jul-2020 01:34:19 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:22
+[24-Jul-2020 01:34:19 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:34:19 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:34:19 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:34:19 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:34:19 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:34:20 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:34:20 UTC] PHP Stack trace:
+[24-Jul-2020 01:34:20 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:0
+[24-Jul-2020 01:34:20 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:22
+[24-Jul-2020 01:34:20 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:34:20 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:34:20 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:34:20 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:34:20 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:39:02 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:39:02 UTC] PHP Stack trace:
+[24-Jul-2020 01:39:02 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/index.php:0
+[24-Jul-2020 01:39:02 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/index.php:10
+[24-Jul-2020 01:39:02 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin.php:34
+[24-Jul-2020 01:39:02 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:39:02 UTC] PHP   5. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:39:02 UTC] PHP   6. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:39:02 UTC] PHP   7. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:39:02 UTC] PHP   8. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:39:02 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:39:02 UTC] PHP Stack trace:
+[24-Jul-2020 01:39:02 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-cron.php:0
+[24-Jul-2020 01:39:02 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-cron.php:44
+[24-Jul-2020 01:39:02 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:39:02 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:39:02 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:39:02 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:39:02 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:39:02 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:39:02 UTC] PHP Stack trace:
+[24-Jul-2020 01:39:02 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-login.php:0
+[24-Jul-2020 01:39:02 UTC] PHP   2. require() /Users/akemi1/Local Sites/2020/app/public/wp-login.php:12
+[24-Jul-2020 01:39:02 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:39:02 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:39:02 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:39:02 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:39:02 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:39:08 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:39:08 UTC] PHP Stack trace:
+[24-Jul-2020 01:39:08 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-login.php:0
+[24-Jul-2020 01:39:08 UTC] PHP   2. require() /Users/akemi1/Local Sites/2020/app/public/wp-login.php:12
+[24-Jul-2020 01:39:08 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:39:08 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:39:08 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:39:08 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:39:08 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:39:09 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:39:09 UTC] PHP Stack trace:
+[24-Jul-2020 01:39:09 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/index.php:0
+[24-Jul-2020 01:39:09 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/index.php:10
+[24-Jul-2020 01:39:09 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin.php:34
+[24-Jul-2020 01:39:09 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:39:09 UTC] PHP   5. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:39:09 UTC] PHP   6. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:39:09 UTC] PHP   7. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:39:09 UTC] PHP   8. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:39:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:39:10 UTC] PHP Stack trace:
+[24-Jul-2020 01:39:10 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:0
+[24-Jul-2020 01:39:10 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:22
+[24-Jul-2020 01:39:10 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:39:10 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:39:10 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:39:10 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:39:10 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:39:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:39:10 UTC] PHP Stack trace:
+[24-Jul-2020 01:39:10 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:0
+[24-Jul-2020 01:39:10 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:22
+[24-Jul-2020 01:39:10 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:39:10 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:39:10 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:39:10 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:39:10 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:39:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:39:10 UTC] PHP Stack trace:
+[24-Jul-2020 01:39:10 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:0
+[24-Jul-2020 01:39:10 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:22
+[24-Jul-2020 01:39:10 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:39:10 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:39:10 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:39:10 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:39:10 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:39:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:39:10 UTC] PHP Stack trace:
+[24-Jul-2020 01:39:10 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:0
+[24-Jul-2020 01:39:10 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:22
+[24-Jul-2020 01:39:10 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:39:10 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:39:10 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:39:10 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:39:10 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:39:13 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:39:13 UTC] PHP Stack trace:
+[24-Jul-2020 01:39:13 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/update-core.php:0
+[24-Jul-2020 01:39:13 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/update-core.php:10
+[24-Jul-2020 01:39:13 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin.php:34
+[24-Jul-2020 01:39:13 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:39:13 UTC] PHP   5. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:39:13 UTC] PHP   6. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:39:13 UTC] PHP   7. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:39:13 UTC] PHP   8. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:39:15 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:39:15 UTC] PHP Stack trace:
+[24-Jul-2020 01:39:15 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/update-core.php:0
+[24-Jul-2020 01:39:15 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/update-core.php:10
+[24-Jul-2020 01:39:15 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin.php:34
+[24-Jul-2020 01:39:15 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:39:15 UTC] PHP   5. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:39:15 UTC] PHP   6. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:39:15 UTC] PHP   7. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:39:15 UTC] PHP   8. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:39:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:39:17 UTC] PHP Stack trace:
+[24-Jul-2020 01:39:17 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/edit.php:0
+[24-Jul-2020 01:39:17 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/edit.php:10
+[24-Jul-2020 01:39:17 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin.php:34
+[24-Jul-2020 01:39:17 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:39:17 UTC] PHP   5. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:39:17 UTC] PHP   6. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:39:17 UTC] PHP   7. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:39:17 UTC] PHP   8. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:39:18 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:39:18 UTC] PHP Stack trace:
+[24-Jul-2020 01:39:18 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:0
+[24-Jul-2020 01:39:18 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:22
+[24-Jul-2020 01:39:18 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:39:18 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:39:18 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:39:18 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:39:18 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:39:27 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:39:27 UTC] PHP Stack trace:
+[24-Jul-2020 01:39:27 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/edit.php:0
+[24-Jul-2020 01:39:27 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/edit.php:10
+[24-Jul-2020 01:39:27 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin.php:34
+[24-Jul-2020 01:39:27 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:39:27 UTC] PHP   5. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:39:27 UTC] PHP   6. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:39:27 UTC] PHP   7. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:39:27 UTC] PHP   8. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:39:28 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:39:28 UTC] PHP Stack trace:
+[24-Jul-2020 01:39:28 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:0
+[24-Jul-2020 01:39:28 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:22
+[24-Jul-2020 01:39:28 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:39:28 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:39:28 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:39:28 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:39:28 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:39:34 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:39:34 UTC] PHP Stack trace:
+[24-Jul-2020 01:39:34 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:0
+[24-Jul-2020 01:39:34 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:22
+[24-Jul-2020 01:39:34 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:39:34 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:39:34 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:39:34 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:39:34 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:39:49 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:39:49 UTC] PHP Stack trace:
+[24-Jul-2020 01:39:49 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:0
+[24-Jul-2020 01:39:49 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:22
+[24-Jul-2020 01:39:49 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:39:49 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:39:49 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:39:50 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:39:50 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:41:57 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:41:57 UTC] PHP Stack trace:
+[24-Jul-2020 01:41:57 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:0
+[24-Jul-2020 01:41:57 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:22
+[24-Jul-2020 01:41:57 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:41:57 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:41:57 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:41:57 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:41:57 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:43:29 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:43:29 UTC] PHP Stack trace:
+[24-Jul-2020 01:43:29 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:0
+[24-Jul-2020 01:43:29 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:22
+[24-Jul-2020 01:43:29 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:43:29 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:43:29 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:43:29 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:43:29 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:43:45 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:43:45 UTC] PHP Stack trace:
+[24-Jul-2020 01:43:45 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:0
+[24-Jul-2020 01:43:45 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:22
+[24-Jul-2020 01:43:45 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:43:45 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:43:45 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:43:45 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:43:45 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:45:46 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:45:46 UTC] PHP Stack trace:
+[24-Jul-2020 01:45:46 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:0
+[24-Jul-2020 01:45:46 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:22
+[24-Jul-2020 01:45:46 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:45:46 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:45:46 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:45:46 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:45:46 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:47:45 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:47:45 UTC] PHP Stack trace:
+[24-Jul-2020 01:47:45 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:0
+[24-Jul-2020 01:47:45 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:22
+[24-Jul-2020 01:47:45 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:47:45 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:47:45 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:47:45 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:47:45 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:49:29 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:49:29 UTC] PHP Stack trace:
+[24-Jul-2020 01:49:29 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/index.php:0
+[24-Jul-2020 01:49:29 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/index.php:10
+[24-Jul-2020 01:49:29 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin.php:34
+[24-Jul-2020 01:49:29 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:49:29 UTC] PHP   5. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:49:29 UTC] PHP   6. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:49:29 UTC] PHP   7. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:49:29 UTC] PHP   8. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:49:31 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:49:31 UTC] PHP Stack trace:
+[24-Jul-2020 01:49:31 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:0
+[24-Jul-2020 01:49:31 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:22
+[24-Jul-2020 01:49:31 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:49:31 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:49:31 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:49:31 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:49:31 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:49:31 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:49:31 UTC] PHP Stack trace:
+[24-Jul-2020 01:49:31 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:0
+[24-Jul-2020 01:49:31 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:22
+[24-Jul-2020 01:49:31 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:49:31 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:49:31 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:49:31 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:49:31 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:49:31 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:49:31 UTC] PHP Stack trace:
+[24-Jul-2020 01:49:31 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:0
+[24-Jul-2020 01:49:31 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:22
+[24-Jul-2020 01:49:31 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:49:31 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:49:31 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:49:31 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:49:31 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:49:33 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:49:33 UTC] PHP Stack trace:
+[24-Jul-2020 01:49:33 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/update-core.php:0
+[24-Jul-2020 01:49:33 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/update-core.php:10
+[24-Jul-2020 01:49:33 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin.php:34
+[24-Jul-2020 01:49:33 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:49:33 UTC] PHP   5. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:49:33 UTC] PHP   6. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:49:33 UTC] PHP   7. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:49:33 UTC] PHP   8. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:49:34 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:49:34 UTC] PHP Stack trace:
+[24-Jul-2020 01:49:34 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/update-core.php:0
+[24-Jul-2020 01:49:34 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/update-core.php:10
+[24-Jul-2020 01:49:34 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin.php:34
+[24-Jul-2020 01:49:34 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:49:34 UTC] PHP   5. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:49:34 UTC] PHP   6. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:49:34 UTC] PHP   7. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:49:34 UTC] PHP   8. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:49:36 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:49:36 UTC] PHP Stack trace:
+[24-Jul-2020 01:49:36 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/update-core.php:0
+[24-Jul-2020 01:49:36 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/update-core.php:10
+[24-Jul-2020 01:49:36 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin.php:34
+[24-Jul-2020 01:49:36 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:49:36 UTC] PHP   5. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:49:36 UTC] PHP   6. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:49:36 UTC] PHP   7. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:49:36 UTC] PHP   8. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:49:36 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:49:36 UTC] PHP Stack trace:
+[24-Jul-2020 01:49:36 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/update-core.php:0
+[24-Jul-2020 01:49:36 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/update-core.php:10
+[24-Jul-2020 01:49:36 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin.php:34
+[24-Jul-2020 01:49:36 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:49:36 UTC] PHP   5. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:49:36 UTC] PHP   6. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:49:36 UTC] PHP   7. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:49:36 UTC] PHP   8. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:49:37 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:49:37 UTC] PHP Stack trace:
+[24-Jul-2020 01:49:37 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/edit.php:0
+[24-Jul-2020 01:49:37 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/edit.php:10
+[24-Jul-2020 01:49:37 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin.php:34
+[24-Jul-2020 01:49:37 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:49:37 UTC] PHP   5. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:49:37 UTC] PHP   6. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:49:37 UTC] PHP   7. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:49:37 UTC] PHP   8. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:49:38 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:49:38 UTC] PHP Stack trace:
+[24-Jul-2020 01:49:38 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:0
+[24-Jul-2020 01:49:38 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin-ajax.php:22
+[24-Jul-2020 01:49:38 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:49:38 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:49:38 UTC] PHP   5. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:49:38 UTC] PHP   6. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:49:38 UTC] PHP   7. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:49:43 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:49:43 UTC] PHP Stack trace:
+[24-Jul-2020 01:49:43 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-admin/themes.php:0
+[24-Jul-2020 01:49:43 UTC] PHP   2. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/themes.php:10
+[24-Jul-2020 01:49:43 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-admin/admin.php:34
+[24-Jul-2020 01:49:43 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:49:43 UTC] PHP   5. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:49:43 UTC] PHP   6. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:49:43 UTC] PHP   7. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:49:43 UTC] PHP   8. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:49:45 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:49:45 UTC] PHP Stack trace:
+[24-Jul-2020 01:49:45 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/index.php:0
+[24-Jul-2020 01:49:45 UTC] PHP   2. require() /Users/akemi1/Local Sites/2020/app/public/index.php:17
+[24-Jul-2020 01:49:45 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php:13
+[24-Jul-2020 01:49:45 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:49:45 UTC] PHP   5. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:49:45 UTC] PHP   6. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:49:45 UTC] PHP   7. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:49:45 UTC] PHP   8. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:50:08 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:50:08 UTC] PHP Stack trace:
+[24-Jul-2020 01:50:08 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/index.php:0
+[24-Jul-2020 01:50:08 UTC] PHP   2. require() /Users/akemi1/Local Sites/2020/app/public/index.php:17
+[24-Jul-2020 01:50:08 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php:13
+[24-Jul-2020 01:50:08 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:50:08 UTC] PHP   5. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:50:08 UTC] PHP   6. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:50:08 UTC] PHP   7. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:50:08 UTC] PHP   8. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:50:13 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:50:13 UTC] PHP Stack trace:
+[24-Jul-2020 01:50:13 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/index.php:0
+[24-Jul-2020 01:50:13 UTC] PHP   2. require() /Users/akemi1/Local Sites/2020/app/public/index.php:17
+[24-Jul-2020 01:50:13 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php:13
+[24-Jul-2020 01:50:13 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:50:13 UTC] PHP   5. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:50:13 UTC] PHP   6. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:50:13 UTC] PHP   7. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:50:13 UTC] PHP   8. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 01:58:20 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 01:58:20 UTC] PHP Stack trace:
+[24-Jul-2020 01:58:20 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/index.php:0
+[24-Jul-2020 01:58:20 UTC] PHP   2. require() /Users/akemi1/Local Sites/2020/app/public/index.php:17
+[24-Jul-2020 01:58:20 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php:13
+[24-Jul-2020 01:58:20 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 01:58:20 UTC] PHP   5. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 01:58:20 UTC] PHP   6. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 01:58:20 UTC] PHP   7. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 01:58:20 UTC] PHP   8. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 02:02:20 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'custom_theme_setup' not found or invalid function name in /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php on line 287
+[24-Jul-2020 02:02:20 UTC] PHP Stack trace:
+[24-Jul-2020 02:02:20 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/index.php:0
+[24-Jul-2020 02:02:20 UTC] PHP   2. require() /Users/akemi1/Local Sites/2020/app/public/index.php:17
+[24-Jul-2020 02:02:20 UTC] PHP   3. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php:13
+[24-Jul-2020 02:02:20 UTC] PHP   4. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-load.php:37
+[24-Jul-2020 02:02:20 UTC] PHP   5. require_once() /Users/akemi1/Local Sites/2020/app/public/wp-config.php:77
+[24-Jul-2020 02:02:20 UTC] PHP   6. do_action() /Users/akemi1/Local Sites/2020/app/public/wp-settings.php:518
+[24-Jul-2020 02:02:20 UTC] PHP   7. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:478
+[24-Jul-2020 02:02:20 UTC] PHP   8. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Jul-2020 02:29:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function php　the_posts_pagination() in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php:104
+Stack trace:
+#0 /Users/akemi1/Local Sites/2020/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/akemi1/Local Sites/2020/app/public/wp-blog-header.php(19): require_once('/Users/akemi1/L...')
+#2 /Users/akemi1/Local Sites/2020/app/public/index.php(17): require('/Users/akemi1/L...')
+#3 {main}
+  thrown in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/index.php on line 104
+[16-Aug-2020 07:24:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/single.php on line 29
+[16-Aug-2020 07:25:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/single.php on line 27
+[16-Aug-2020 07:25:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/single.php on line 27
+[16-Aug-2020 07:25:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/single.php on line 27
+[16-Aug-2020 07:25:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/single.php on line 27
+[16-Aug-2020 07:25:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/single.php on line 27
+[16-Aug-2020 07:25:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/single.php on line 27
+[16-Aug-2020 07:25:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/single.php on line 27
+[16-Aug-2020 07:26:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/single.php on line 27
+[16-Aug-2020 07:27:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/single.php on line 25
+[16-Aug-2020 07:27:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/single.php on line 25
+[16-Aug-2020 07:27:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/single.php on line 25
+[16-Aug-2020 07:36:28 UTC] PHP Parse error:  syntax error, unexpected 'S' (T_STRING), expecting ')' in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/front-page.php on line 14
+[16-Aug-2020 07:36:35 UTC] PHP Parse error:  syntax error, unexpected 'S' (T_STRING), expecting ')' in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/front-page.php on line 14
+[16-Aug-2020 07:37:01 UTC] PHP Parse error:  syntax error, unexpected 'S' (T_STRING), expecting ')' in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/front-page.php on line 14
+[16-Aug-2020 07:37:03 UTC] PHP Parse error:  syntax error, unexpected 'S' (T_STRING), expecting ')' in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/front-page.php on line 14
+[16-Aug-2020 07:37:27 UTC] PHP Parse error:  syntax error, unexpected 'S' (T_STRING), expecting ')' in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/front-page.php on line 14
+[16-Aug-2020 07:37:28 UTC] PHP Parse error:  syntax error, unexpected 'S' (T_STRING), expecting ')' in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/front-page.php on line 14
+[16-Aug-2020 07:37:39 UTC] PHP Parse error:  syntax error, unexpected 'S' (T_STRING), expecting ')' in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/front-page.php on line 14
+[16-Aug-2020 07:38:48 UTC] PHP Parse error:  syntax error, unexpected 'S' (T_STRING), expecting ')' in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/front-page.php on line 14
+[16-Aug-2020 07:38:50 UTC] PHP Parse error:  syntax error, unexpected 'S' (T_STRING), expecting ')' in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/front-page.php on line 14
+[16-Aug-2020 07:52:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/single.php on line 25
+[16-Aug-2020 08:01:27 UTC] PHP Parse error:  syntax error, unexpected 'set_post_thumbnail_size' (T_STRING) in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/functions.php on line 22
+[16-Aug-2020 08:01:32 UTC] PHP Parse error:  syntax error, unexpected 'set_post_thumbnail_size' (T_STRING) in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/functions.php on line 22
+[16-Aug-2020 08:01:39 UTC] PHP Parse error:  syntax error, unexpected 'set_post_thumbnail_size' (T_STRING) in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/functions.php on line 22
+[16-Aug-2020 08:01:45 UTC] PHP Parse error:  syntax error, unexpected 'set_post_thumbnail_size' (T_STRING) in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/functions.php on line 22
+[16-Aug-2020 08:02:31 UTC] PHP Parse error:  syntax error, unexpected 'set_post_thumbnail_size' (T_STRING) in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/functions.php on line 22
+[16-Aug-2020 08:02:32 UTC] PHP Parse error:  syntax error, unexpected 'set_post_thumbnail_size' (T_STRING) in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/functions.php on line 22
+[16-Aug-2020 08:02:34 UTC] PHP Parse error:  syntax error, unexpected 'set_post_thumbnail_size' (T_STRING) in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/functions.php on line 22
+[16-Aug-2020 08:02:37 UTC] PHP Parse error:  syntax error, unexpected 'set_post_thumbnail_size' (T_STRING) in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/functions.php on line 22
+[16-Aug-2020 08:02:41 UTC] PHP Parse error:  syntax error, unexpected 'set_post_thumbnail_size' (T_STRING) in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/functions.php on line 22
+[16-Aug-2020 08:03:38 UTC] PHP Parse error:  syntax error, unexpected 'set_post_thumbnail_size' (T_STRING) in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/functions.php on line 22
+[16-Aug-2020 08:03:42 UTC] PHP Parse error:  syntax error, unexpected 'set_post_thumbnail_size' (T_STRING) in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/functions.php on line 22
+[16-Aug-2020 08:03:42 UTC] PHP Parse error:  syntax error, unexpected 'set_post_thumbnail_size' (T_STRING) in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/functions.php on line 22
+[16-Aug-2020 08:03:49 UTC] PHP Parse error:  syntax error, unexpected 'set_post_thumbnail_size' (T_STRING) in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/functions.php on line 22
+[16-Aug-2020 08:03:51 UTC] PHP Parse error:  syntax error, unexpected 'set_post_thumbnail_size' (T_STRING) in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/functions.php on line 22
+[16-Aug-2020 08:03:52 UTC] PHP Parse error:  syntax error, unexpected 'set_post_thumbnail_size' (T_STRING) in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/functions.php on line 22
+[16-Aug-2020 08:04:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/functions.php on line 22
