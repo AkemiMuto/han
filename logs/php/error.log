@@ -665,3 +665,27 @@ Stack trace:
 [16-Aug-2020 08:03:51 UTC] PHP Parse error:  syntax error, unexpected 'set_post_thumbnail_size' (T_STRING) in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/functions.php on line 22
 [16-Aug-2020 08:03:52 UTC] PHP Parse error:  syntax error, unexpected 'set_post_thumbnail_size' (T_STRING) in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/functions.php on line 22
 [16-Aug-2020 08:04:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/akemi1/Local Sites/2020/app/public/wp-content/themes/myblog/functions.php on line 22
+[24-Aug-2020 02:15:49 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/akemi1/Local Sites/2020/app/public/wp-includes/update.php on line 162
+[24-Aug-2020 02:15:49 UTC] PHP Stack trace:
+[24-Aug-2020 02:15:49 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-cron.php:0
+[24-Aug-2020 02:15:49 UTC] PHP   2. do_action_ref_array() /Users/akemi1/Local Sites/2020/app/public/wp-cron.php:138
+[24-Aug-2020 02:15:49 UTC] PHP   3. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:544
+[24-Aug-2020 02:15:49 UTC] PHP   4. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Aug-2020 02:15:49 UTC] PHP   5. wp_version_check() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:287
+[24-Aug-2020 02:15:49 UTC] PHP   6. trigger_error() /Users/akemi1/Local Sites/2020/app/public/wp-includes/update.php:162
+[24-Aug-2020 02:15:49 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/akemi1/Local Sites/2020/app/public/wp-includes/update.php on line 388
+[24-Aug-2020 02:15:49 UTC] PHP Stack trace:
+[24-Aug-2020 02:15:49 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-cron.php:0
+[24-Aug-2020 02:15:49 UTC] PHP   2. do_action_ref_array() /Users/akemi1/Local Sites/2020/app/public/wp-cron.php:138
+[24-Aug-2020 02:15:49 UTC] PHP   3. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:544
+[24-Aug-2020 02:15:49 UTC] PHP   4. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Aug-2020 02:15:49 UTC] PHP   5. wp_update_plugins() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:287
+[24-Aug-2020 02:15:49 UTC] PHP   6. trigger_error() /Users/akemi1/Local Sites/2020/app/public/wp-includes/update.php:388
+[24-Aug-2020 02:15:49 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/akemi1/Local Sites/2020/app/public/wp-includes/update.php on line 578
+[24-Aug-2020 02:15:49 UTC] PHP Stack trace:
+[24-Aug-2020 02:15:49 UTC] PHP   1. {main}() /Users/akemi1/Local Sites/2020/app/public/wp-cron.php:0
+[24-Aug-2020 02:15:49 UTC] PHP   2. do_action_ref_array() /Users/akemi1/Local Sites/2020/app/public/wp-cron.php:138
+[24-Aug-2020 02:15:49 UTC] PHP   3. WP_Hook->do_action() /Users/akemi1/Local Sites/2020/app/public/wp-includes/plugin.php:544
+[24-Aug-2020 02:15:49 UTC] PHP   4. WP_Hook->apply_filters() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:311
+[24-Aug-2020 02:15:49 UTC] PHP   5. wp_update_themes() /Users/akemi1/Local Sites/2020/app/public/wp-includes/class-wp-hook.php:287
+[24-Aug-2020 02:15:49 UTC] PHP   6. trigger_error() /Users/akemi1/Local Sites/2020/app/public/wp-includes/update.php:578
