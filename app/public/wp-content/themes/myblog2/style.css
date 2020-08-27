@@ -49,6 +49,10 @@ footer{
   padding: 15px 10px ;
 }
 
+a{
+  text-decoration: none;
+}
+
 /*グローバルナビゲーション*/
 
 nav{
@@ -74,12 +78,12 @@ min-width: 200px;
 
 }
 
-.current>li:nth-child(2){
+.current-nav>li:nth-child(2){
   display: inline-block;
   border-left:1px dashed #A10115;
 }
 
-.current>li:nth-child(5){
+.current-nav>li:nth-child(5){
   display: inline-block;
   border-right: 1px dashed #A10115;
 }
@@ -91,7 +95,7 @@ font-family: 'Roboto Black';
 font-size: 13px;
 display: block;
 }
-nav ul li.current a{
+nav ul li.current-nav a{
 color: #A10115;
 font-family: 'Roboto Black';
 }
@@ -101,7 +105,7 @@ nav ul li a:hover{
 }
 
 
-ul.current ul{
+ul.current-nav ul{
   display: none;
   margin:0px;
   padding: 20px 0 20px 0;
@@ -109,13 +113,13 @@ ul.current ul{
   background-color:  #F0EFEA;
 }
 
-ul.current ul li{
+ul.current-nav ul li{
   display: block;
   padding:5% 30%;
   text-align: left;
 }
 
-ul.current ul > li{
+ul.current-nav ul > li{
   position: relative;
 }
 
@@ -125,13 +129,13 @@ ul.current ul > li{
   z-index: 2;
 } */
 
-ul.current li:hover > ul {
+ul.current-nav li:hover > ul {
   display: block;         /* ★マウスポインタが載っている項目の内部にあるリストを表示する */
   position: absolute;
   z-index: 2;
  }
 
-ul.current ul ul {
+ul.current-nav ul ul {
   margin: 0px;         /* ★サブメニュー外側の余白(ゼロ) */
   padding: 20px 0 20px 0;
   display: none;       /* ★標準では非表示にする */
@@ -139,6 +143,10 @@ ul.current ul ul {
   top: -20px;           /* 1pxだけ上方向にずらす(※上に1pxの枠線を引いている場合) */
   left: 100%;         /* ★基準位置からの距離を親ボックスの幅100％にする */
   border-left: 1px solid white; /* 左側に引く枠線(ピンク色で1pxの実線) */
+ }
+
+ .sub-menu li{
+    width:200px;
  }
 
  .header-sp-nav{
@@ -259,7 +267,7 @@ article{
   flex-wrap: wrap;
   justify-content: center;
   -webkit-justify-content: center;
-  margin:0 10vw;
+  margin:0 10vw 30px 10vw;
 }
 
 .post {
@@ -305,6 +313,7 @@ article{
     white-space: nowrap; /* 横幅のMAXに達しても改行しない */
     overflow: hidden; /* ハミ出した部分を隠す */
     text-overflow: ellipsis; /* 「…」と省略 */
+  color: #231300;
 }
 
 .post_content{
@@ -556,14 +565,14 @@ span.dots{
 /* 個別記事ページ */
 
 .article{
-  margin:0 80px;
+  margin:0 5%;
   padding:0 0 100px 0;
   background-color: white;
 
 }
 
 .post-contents{
-  margin: 0 50px;
+  margin: 0 5%;
 }
 
 .thumbnail img{
@@ -587,7 +596,8 @@ span.dots{
 .post-category{
   margin: 0 0 0 10px;
   color:#A10115;
-
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .post-category a{
@@ -600,7 +610,26 @@ span.dots{
 }
 
 .no-content{
-  margin: 150px;
+  margin: 150px 5%;
+}
+
+/* 個別投稿ページの前後の投稿リンク */
+
+.post-navigation>.nav-links{
+  display: flex;
+  justify-content: space-between;
+  margin:50px 5%;
+}
+
+.post-navigation>.nav-links a {
+  line-height: 1.7em;
+  position: relative;
+  display: inline-block;
+  width: 30vw;
+  text-align: center;
+  text-decoration: none;
+  color: #A10115;
+  border: solid 1px #A10115;
 }
 
 
@@ -649,9 +678,9 @@ footer ul li a:hover{
 
 
 @media screen and (max-width: 480px) {
-	nav{
-		display: none;
-	}
+  .current-nav,.right1{
+    display: none;
+  }
 
 	header{
 		padding:15px;
@@ -684,7 +713,8 @@ footer ul li a:hover{
 	}
 
 	.description p{
-		font-size: 16px;
+    font-size: 16px;
+    padding-left: 5%;
 	}
 
 	.header-sp-icon-wrap {
@@ -729,7 +759,8 @@ footer ul li a:hover{
 		left: 0;
 		background-color:#F0EFEA;
 		display: none;
-		z-index: 1000;
+    z-index: 1000;
+    overflow-y: scroll; 
 	  }
 	
 	  .header-sp-nav-list {
@@ -829,7 +860,32 @@ footer ul li a:hover{
 }
 
 .home-img p{
-  left: 0;
+  /* left: 0; */
+  font-size: 30px;
+}
+
+.nav-links a{
+  font-size: 12px;
+}
+
+div.home{
+  padding-top:70px;
+}
+
+body.home>.wrapper{
+  padding-bottom: 0;
+}
+
+body.home>.wrapper>footer{
+  display: none;
+}
+
+ul ul{
+  list-style-type: none;
+}
+
+ul ul ul{
+  list-style-type: none;
 }
 	  
 }
