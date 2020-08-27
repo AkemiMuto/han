@@ -17,7 +17,7 @@ Lisence URL:  http://www.gnu.org/licenses/gp1-2.0.html
 }
 
 body{
-  font-family: 'Roboto Black','03スマートフォントUI','Roboto Regular','ヒラギノ角ゴシック W5',sans-serif;
+  font-family: 'Arial Black','Helvetica Bold','Arial','游ゴシック体',sans-serif;
   background-color: #F0EFEA;
   display: flex;
   flex-flow: column;
@@ -91,13 +91,13 @@ min-width: 200px;
 nav ul li a{
 text-decoration: none;
 color: #A10115;
-font-family: 'Roboto Black';
+
 font-size: 13px;
 display: block;
 }
 nav ul li.current-nav a{
 color: #A10115;
-font-family: 'Roboto Black';
+
 }
 
 nav ul li a:hover{
@@ -192,7 +192,6 @@ ul.current-nav ul ul {
   transform: translate(-50%,-50%);
   margin:0;
   padding:0;
-  font-family: 'Roboto Black';
   font-size: 46px;
 }
 
@@ -211,7 +210,7 @@ ul.current-nav ul ul {
 
 .description p{
   color: #A10115;
-  font-family: 'Roboto Black'; 
+ 
   margin: 50px 10px 10px 10px;
   font-size: 20px;
 }
@@ -324,12 +323,13 @@ article{
 
 .post_content p{
   margin:0;
-  font-family: '03スマートフォントUI';
+  font-family: 'Arial';
+ 
 }
 
 .post_content .post_tag_country{
   color: #A10115;
-  font-family: '03スマートフォントUI';
+ 
 
 
 }
@@ -342,6 +342,7 @@ article{
 .post_tag_country a{
   text-decoration: none;
   color: black;
+  font-family: 'Arial';
 
 }
 
@@ -521,7 +522,7 @@ span.dots{
   color: white;/*文字は白に*/
   top: 30%;
   left: 30%;
-  font-size: 40px;
+  font-size: 37px;
 
   position: absolute;
   top: 50%;
@@ -573,6 +574,7 @@ span.dots{
 
 .post-contents{
   margin: 0 5%;
+  font-family: '游ゴシック','Arial';
 }
 
 .thumbnail img{
@@ -664,13 +666,11 @@ footer ul li{
 footer ul li a{
   text-decoration: none;
   color: #FFFFFF;
-  font-family: 'Roboto Black';
   font-size: 5px;
 
 }
 footer ul li.right1 a{
   color: #FFFFFF;
-  font-family: 'Roboto Black';
 }
 footer ul li a:hover{
   text-decoration: underline;
@@ -851,7 +851,6 @@ footer ul li a:hover{
     transform: translate(-50%,-50%);
     margin: 0;
     padding: 0;
-    font-family: 'Roboto Black';
     font-size: 35px;
 }
 
