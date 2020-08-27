@@ -173,7 +173,6 @@ ul.current-nav ul ul {
   transform: translate(-50%,-50%);
   margin:0;
   padding:0;
-  font-family: 'Roboto Black';
   font-size: 90px;
 }
 
@@ -225,7 +224,6 @@ ul.current-nav ul ul {
 
 .description-profile p{
   color: #A10115;
-  font-family: 'Roboto Black'; 
   font-size: 18px;
 
   
@@ -247,7 +245,6 @@ ul.current-nav ul ul {
 
 nav ul li .right1 a{
 color: #FFFFFF;
-font-family: 'Roboto Black';
 font-size: 5px;
 
 }
@@ -445,7 +442,6 @@ span.dots{
 
 
 .myself{
-  font-family: 'ヒラギノ角ゴシック W5';
   margin: 50px 0 0 22%;
   line-height: 1.5em;
   letter-spacing: 0.07em
@@ -566,7 +562,7 @@ span.dots{
 /* 個別記事ページ */
 
 .article{
-  margin:0 5%;
+  margin:0 13%;
   padding:0 0 100px 0;
   background-color: white;
 
@@ -786,7 +782,6 @@ footer ul li a:hover{
     }
 	
 	  .header-sp-nav-list a {
-		font-family: "QS";
 		font-size: 20px;
 		color: #231300;
 		text-decoration: none;
