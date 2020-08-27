@@ -45,7 +45,7 @@
         array(
             'theme_location' => 'globalnav',
 			'container' => 'nav',
-			'menu_class' => 'current'
+			'menu_class' => 'current-nav'
         )
 		);?>
 		
