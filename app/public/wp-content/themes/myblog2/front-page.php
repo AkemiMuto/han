@@ -18,9 +18,7 @@
 		<a href="<?php echo esc_url(home_url('/archives/category/korea/'));?>"><div class="home-img-hover home-img homeimg3-3"><img src="<?php echo esc_url(get_theme_file_uri('images/korea.JPG')); ?>"><p>Korea</p></div></a>
 	</div>
 
-	
-
-<?php get_footer(); ?>	
+	<?php get_footer(); ?>	
 
 <!-- ▲ ヘッダー : 終了-->
 <!-- ▼ コンテンツ : 開始-->
